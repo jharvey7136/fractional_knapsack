@@ -25,7 +25,8 @@ In order to test the hypothesis involved, I have taken the following steps:
 3. Inspect the graphs and compare the growth to an n log n growth rate
 4. Examine code and make changes if results do not seem right
 
-
+### Visual Inspection
+![Alt text](growth1.png)
 
 
 
